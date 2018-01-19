@@ -1,0 +1,29 @@
+{
+  "name": "davidacosta-angular2",
+  "version": "1.0.0",
+  "description": "mean stack with angular 2",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chinhphamvanvn/mean-stack-with-angular-2.git"
+  },
+  "keywords": [
+    "Mean",
+    "stack",
+    "angular",
+    "2"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chinhphamvanvn/mean-stack-with-angular-2/issues"
+  },
+  "homepage": "https://github.com/chinhphamvanvn/mean-stack-with-angular-2#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "mongoose": "^5.0.0"
+  }
+}
